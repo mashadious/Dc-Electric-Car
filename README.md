@@ -1,12 +1,12 @@
 # Dc-Electric-Car
-This is my bachelor Project where I designed and built an electric car for 2 passengers that is powered mainly by solar power, coping with the difficulty of limited resources in the egyotian market. So I made the card of components that are localy resourced. 
+This is my bachelor Project where I designed and built an electric car for 2 passengers that is powered exclusively by solar power, coping with the difficulty of limited resources in the egyptian market. One of my concerns was to make the car of components that are locally sourced. 
 
-## Abstract
+## Abstract:
 This thesis deals with avoiding the reliance on the limited source of energy such as
-petroleum, also as the global warming increasingly threatening our planet earth. In an attempt to
-avoid these two main problems is to use renewable energy instead, which is limitless, free, and
-pollution free. Developing the car by using solar energy as their only source of energy for
-supporting the car with energy. Using solar panels, they collect it during the day for storing this
+petroleum, also as global warming increasingly threatens our planet earth. In this project, you find my strategy of
+avoiding these two main problems by using renewable energy instead, which is limitless, free, and
+pollution free. Developing the car using the sun as a sole source of energy for
+supporting the car. Using solar panels, they collect it during the day for storing this
 energy into batteries to be used to operate the car. Its major advantage lies in the fact that it is
 simple and versatile, which makes it applicable to a large range of cars of different weight loads,
 and different speeds.
