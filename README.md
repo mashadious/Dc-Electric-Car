@@ -30,4 +30,4 @@ https://user-images.githubusercontent.com/42070316/151681136-964ff7c8-bea5-4514-
 <img width="1006" alt="Screenshot 2022-02-07 at 23 13 38" src="https://user-images.githubusercontent.com/42070316/152883530-d137f98b-f9d8-4e48-af0d-f87851047067.png">
 
 ##### License:
-NOT FOR COMMERCIAL USE If you intened to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my thesis please ask my permission.
+NOT FOR COMMERCIAL USE If you intened to use my thesis please contact me and get my permission. If you intend to make money using any of my thesis please ask my permission.
